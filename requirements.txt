@@ -2,7 +2,7 @@ biopython==1.83
 generate_chroma==1.0.0
 matplotlib==3.8.2
 mrcfile==1.5.0
-numpy==2.1.3
+numpy==1.26.4
 plotly==5.18.0
 scipy==1.14.1
 torch==2.1.2
